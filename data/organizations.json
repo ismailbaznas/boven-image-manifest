@@ -1,33 +1,5 @@
 [
   {
-    "id": "baznas",
-    "name": "BAZNAS",
-    "slug": "baznas",
-    "cover_media_id": "boven-digoel-5",
-    "created_at": "2026-09-07T07:39:14.33019+00:00"
-  },
-  {
-    "id": "darul-hidayah",
-    "name": "Darul Hidayah",
-    "slug": "darul-hidayah",
-    "cover_media_id": "boven-digoel-6",
-    "created_at": "2026-09-07T07:40:30.955774+00:00"
-  },
-  {
-    "id": "kemenhaj",
-    "name": "KEMENHAJ",
-    "slug": "kemenhaj",
-    "cover_media_id": "boven-digoel-1",
-    "created_at": "2026-09-07T07:32:55.582842+00:00"
-  },
-  {
-    "id": "mwc-nu",
-    "name": "MWC NU",
-    "slug": "mwc-nu",
-    "cover_media_id": "boven-digoel-8",
-    "created_at": "2026-09-07T07:43:07.983493+00:00"
-  },
-  {
     "id": "pemda",
     "name": "PEMDA",
     "slug": "pemda",
@@ -40,5 +12,33 @@
     "slug": "tpq-mdh",
     "cover_media_id": "boven-digoel-7",
     "created_at": "2026-09-07T07:41:33.28119+00:00"
+  },
+  {
+    "id": "mwc-nu",
+    "name": "MWC NU",
+    "slug": "mwc-nu",
+    "cover_media_id": "boven-digoel-8",
+    "created_at": "2026-09-07T07:43:07.983493+00:00"
+  },
+  {
+    "id": "darul-hidayah",
+    "name": "Darul Hidayah",
+    "slug": "darul-hidayah",
+    "cover_media_id": "boven-digoel-6",
+    "created_at": "2026-09-07T07:40:30.955774+00:00"
+  },
+  {
+    "id": "baznas",
+    "name": "BAZNAS",
+    "slug": "baznas",
+    "cover_media_id": "boven-digoel-5",
+    "created_at": "2026-09-07T07:39:14.33019+00:00"
+  },
+  {
+    "id": "kemenhaj",
+    "name": "KEMENHAJ",
+    "slug": "kemenhaj",
+    "cover_media_id": "boven-digoel-1",
+    "created_at": "2026-09-07T07:32:55.582842+00:00"
   }
 ]
