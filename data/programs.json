@@ -42,6 +42,27 @@
     "created_at": "2026-09-10T14:46:25.272873+00:00"
   },
   {
+    "id": "darul-hidayah__maulid-nabi-2020",
+    "organization_id": "darul-hidayah",
+    "name": "Maulid Nabi 2020",
+    "slug": "maulid-nabi-2020",
+    "created_at": "2026-09-11T02:04:57.524252+00:00"
+  },
+  {
+    "id": "darul-hidayah__maulid-nabi-2021-1443h",
+    "organization_id": "darul-hidayah",
+    "name": "Maulid Nabi 2021 1443H",
+    "slug": "maulid-nabi-2021-1443h",
+    "created_at": "2026-09-11T04:24:25.928655+00:00"
+  },
+  {
+    "id": "darul-hidayah__maulid-nabi-2022",
+    "organization_id": "darul-hidayah",
+    "name": "Maulid Nabi 2022",
+    "slug": "maulid-nabi-2022",
+    "created_at": "2026-09-11T01:40:24.792766+00:00"
+  },
+  {
     "id": "darul-hidayah__maulid-nabi-2026-1447h",
     "organization_id": "darul-hidayah",
     "name": "Maulid Nabi 2026-1447H",
@@ -63,32 +84,18 @@
     "created_at": "2026-09-08T08:53:16.85814+00:00"
   },
   {
-    "id": "kemenhaj__umum",
-    "organization_id": "kemenhaj",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:32:56.079976+00:00"
+    "id": "darul-hidayah__santunan-anak-yatim-2022",
+    "organization_id": "darul-hidayah",
+    "name": "Santunan Anak Yatim 2022",
+    "slug": "santunan-anak-yatim-2022",
+    "created_at": "2026-09-11T01:50:26.907199+00:00"
   },
   {
-    "id": "tpq-mdh__umum",
-    "organization_id": "tpq-mdh",
+    "id": "darul-hidayah__umum",
+    "organization_id": "darul-hidayah",
     "name": "Umum",
     "slug": "umum",
-    "created_at": "2026-09-07T07:41:34.111773+00:00"
-  },
-  {
-    "id": "mwc-nu__umum",
-    "organization_id": "mwc-nu",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:43:08.780734+00:00"
-  },
-  {
-    "id": "baznas__umum",
-    "organization_id": "baznas",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:39:15.19091+00:00"
+    "created_at": "2026-09-07T07:40:31.874843+00:00"
   },
   {
     "id": "pemda__umum",
@@ -98,10 +105,31 @@
     "created_at": "2026-09-07T07:35:55.139708+00:00"
   },
   {
-    "id": "darul-hidayah__umum",
-    "organization_id": "darul-hidayah",
+    "id": "baznas__umum",
+    "organization_id": "baznas",
     "name": "Umum",
     "slug": "umum",
-    "created_at": "2026-09-07T07:40:31.874843+00:00"
+    "created_at": "2026-09-07T07:39:15.19091+00:00"
+  },
+  {
+    "id": "kemenhaj__umum",
+    "organization_id": "kemenhaj",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:32:56.079976+00:00"
+  },
+  {
+    "id": "mwc-nu__umum",
+    "organization_id": "mwc-nu",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:43:08.780734+00:00"
+  },
+  {
+    "id": "tpq-mdh__umum",
+    "organization_id": "tpq-mdh",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:41:34.111773+00:00"
   }
 ]
