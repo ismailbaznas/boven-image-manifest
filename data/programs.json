@@ -120,6 +120,14 @@
     "cover_media_id": null
   },
   {
+    "id": "darul-hidayah__santunan-anak-yatim-2019",
+    "organization_id": "darul-hidayah",
+    "name": "Santunan Anak Yatim 2019",
+    "slug": "santunan-anak-yatim-2019",
+    "created_at": "2026-09-11T16:36:01.923121+00:00",
+    "cover_media_id": "boven-digoel-520"
+  },
+  {
     "id": "darul-hidayah__santunan-anak-yatim-2022",
     "organization_id": "darul-hidayah",
     "name": "Santunan Anak Yatim 2022",
@@ -152,20 +160,12 @@
     "cover_media_id": null
   },
   {
-    "id": "pemda__umum",
-    "organization_id": "pemda",
+    "id": "kemenhaj__umum",
+    "organization_id": "kemenhaj",
     "name": "Umum",
     "slug": "umum",
-    "created_at": "2026-09-07T07:35:55.139708+00:00",
+    "created_at": "2026-09-07T07:32:56.079976+00:00",
     "cover_media_id": null
-  },
-  {
-    "id": "darul-hidayah__umum",
-    "organization_id": "darul-hidayah",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:40:31.874843+00:00",
-    "cover_media_id": "boven-digoel-6"
   },
   {
     "id": "mwc-nu__umum",
@@ -192,11 +192,19 @@
     "cover_media_id": null
   },
   {
-    "id": "kemenhaj__umum",
-    "organization_id": "kemenhaj",
+    "id": "pemda__umum",
+    "organization_id": "pemda",
     "name": "Umum",
     "slug": "umum",
-    "created_at": "2026-09-07T07:32:56.079976+00:00",
+    "created_at": "2026-09-07T07:35:55.139708+00:00",
     "cover_media_id": null
+  },
+  {
+    "id": "darul-hidayah__umum",
+    "organization_id": "darul-hidayah",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:40:31.874843+00:00",
+    "cover_media_id": "boven-digoel-6"
   }
 ]
