@@ -84,6 +84,13 @@
     "created_at": "2026-09-08T08:53:16.85814+00:00"
   },
   {
+    "id": "darul-hidayah__santunan-anak-yatim-2018-1440h",
+    "organization_id": "darul-hidayah",
+    "name": "Santunan Anak Yatim 2018 1440H",
+    "slug": "santunan-anak-yatim-2018-1440h",
+    "created_at": "2026-09-11T14:18:55.416854+00:00"
+  },
+  {
     "id": "darul-hidayah__santunan-anak-yatim-2022",
     "organization_id": "darul-hidayah",
     "name": "Santunan Anak Yatim 2022",
@@ -91,25 +98,11 @@
     "created_at": "2026-09-11T01:50:26.907199+00:00"
   },
   {
-    "id": "darul-hidayah__umum",
-    "organization_id": "darul-hidayah",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:40:31.874843+00:00"
-  },
-  {
     "id": "pemda__umum",
     "organization_id": "pemda",
     "name": "Umum",
     "slug": "umum",
     "created_at": "2026-09-07T07:35:55.139708+00:00"
-  },
-  {
-    "id": "baznas__umum",
-    "organization_id": "baznas",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:39:15.19091+00:00"
   },
   {
     "id": "kemenhaj__umum",
@@ -131,5 +124,19 @@
     "name": "Umum",
     "slug": "umum",
     "created_at": "2026-09-07T07:41:34.111773+00:00"
+  },
+  {
+    "id": "darul-hidayah__umum",
+    "organization_id": "darul-hidayah",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:40:31.874843+00:00"
+  },
+  {
+    "id": "baznas__umum",
+    "organization_id": "baznas",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:39:15.19091+00:00"
   }
 ]
