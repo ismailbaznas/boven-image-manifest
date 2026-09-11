@@ -13078,32 +13078,6 @@
     "program_id": "darul-hidayah__santunan-anak-yatim-2022"
   },
   {
-    "id": "boven-digoel-501-ec5c",
-    "filename": "santunan-2022-darul-hidayah-maulid-nabi-2022-boven-digoel-501-ec5c.jpg",
-    "title": "santunan-2022",
-    "description": "",
-    "blogger_url": "https://lh3.googleusercontent.com/-ETXpXwJ78Qo/aqNeErPiT2I/AAAAAAAAAzY/fAqWmTsPThIkEb5kGOAWPdGQ499eNfSxACNcBGAsYHQ/s0/santunan-2022-darul-hidayah-maulid-nabi-2022-boven-digoel-501.jpg",
-    "blogger_url_s1600": "https://lh3.googleusercontent.com/-ETXpXwJ78Qo/aqNeErPiT2I/AAAAAAAAAzY/fAqWmTsPThIkEb5kGOAWPdGQ499eNfSxACNcBGAsYHQ/s1600/santunan-2022-darul-hidayah-maulid-nabi-2022-boven-digoel-501.jpg",
-    "blogger_album_id": "7684088816660196737",
-    "blogger_photo_id": "7684088823644573538",
-    "provider": "blogger",
-    "hash": "ec5c54b90c4c4ed5",
-    "bytes": 411921,
-    "mime": "image/jpeg",
-    "width": 2560,
-    "height": 1281,
-    "metadata": {
-      "lokasi": "Tanah Merah Boven Digoel",
-      "program": "Maulid Nabi 2022",
-      "tanggal": "2022-10-19",
-      "organisasi": "Darul Hidayah"
-    },
-    "created_at": "2026-09-11T01:49:07.385697+00:00",
-    "updated_at": "2026-09-11T01:49:07.385697+00:00",
-    "organization_id": "darul-hidayah",
-    "program_id": "darul-hidayah__maulid-nabi-2022"
-  },
-  {
     "id": "boven-digoel-501-64fd",
     "filename": "maulid-nabi-2022-masjid-darul-hidayah-50-darul-hidayah-maulid-nabi-2022-boven-digoel-501-64fd.jpg",
     "title": "Maulid Nabi 2022 Masjid Darul Hidayah (50)",
@@ -25996,6 +25970,32 @@
     },
     "created_at": "2026-09-07T09:12:56.563548+00:00",
     "updated_at": "2026-09-07T09:12:56.563548+00:00",
+    "organization_id": "darul-hidayah",
+    "program_id": "darul-hidayah__maulid-nabi-2026-1447h"
+  },
+  {
+    "id": "boven-digoel-55",
+    "filename": "1000914689-darul-hidayah-maulid-nabi-2026-1447h-boven-digoel-55.jpg",
+    "title": "1000914689",
+    "description": "",
+    "blogger_url": "https://lh3.googleusercontent.com/-THag0pS3vPg/ap6AFMoOtTI/AAAAAAAAWYM/uEw_reeeaXUfmvOcrHgJMZJSaOiQbHiCQCNcBGAsYHQ/s0/1000914689-darul-hidayah-maulid-nabi-2026-1447h-boven-digoel-55.jpg",
+    "blogger_url_s1600": "https://lh3.googleusercontent.com/-THag0pS3vPg/ap6AFMoOtTI/AAAAAAAAWYM/uEw_reeeaXUfmvOcrHgJMZJSaOiQbHiCQCNcBGAsYHQ/s1600/1000914689-darul-hidayah-maulid-nabi-2026-1447h-boven-digoel-55.jpg",
+    "blogger_album_id": "7682718835435443361",
+    "blogger_photo_id": "7682718841118307634",
+    "provider": "blogger",
+    "hash": "c1dad55c61106e77",
+    "bytes": 570160,
+    "mime": "image/jpeg",
+    "width": 4032,
+    "height": 3024,
+    "metadata": {
+      "lokasi": "Tanah Merah",
+      "program": "Maulid Nabi 2026-1447H",
+      "tanggal": "2026-08-20",
+      "organisasi": "Darul Hidayah"
+    },
+    "created_at": "2026-09-07T09:12:52.610156+00:00",
+    "updated_at": "2026-09-07T09:12:52.610156+00:00",
     "organization_id": "darul-hidayah",
     "program_id": "darul-hidayah__maulid-nabi-2026-1447h"
   }
