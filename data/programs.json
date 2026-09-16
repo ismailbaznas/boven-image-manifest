@@ -13,7 +13,7 @@
     "name": "Foto Kantor",
     "slug": "foto-kantor",
     "created_at": "2026-09-07T08:00:01.897778+00:00",
-    "cover_media_id": null
+    "cover_media_id": "boven-digoel-9"
   },
   {
     "id": "kemenhaj__foto-team-2016",
@@ -21,7 +21,7 @@
     "name": "Foto Team 2016",
     "slug": "foto-team-2016",
     "created_at": "2026-09-08T07:52:08.968899+00:00",
-    "cover_media_id": null
+    "cover_media_id": "boven-digoel-71"
   },
   {
     "id": "kemenhaj__iphi",
@@ -101,7 +101,7 @@
     "name": "Pelantikan IPHI 2026-2031",
     "slug": "pelantikan-iphi-2026-2031",
     "created_at": "2026-09-12T14:44:41.627149+00:00",
-    "cover_media_id": null
+    "cover_media_id": "boven-digoel-595"
   },
   {
     "id": "kemenhaj__perekaman-paspor-haji-2027",
@@ -109,7 +109,7 @@
     "name": "Perekaman Paspor Haji 2027",
     "slug": "perekaman-paspor-haji-2027",
     "created_at": "2026-09-10T11:56:29.395932+00:00",
-    "cover_media_id": null
+    "cover_media_id": "boven-digoel-279"
   },
   {
     "id": "darul-hidayah__santunan-anak-yatim-2014",
@@ -168,12 +168,12 @@
     "cover_media_id": null
   },
   {
-    "id": "pemda__umum",
-    "organization_id": "pemda",
+    "id": "darul-hidayah__umum",
+    "organization_id": "darul-hidayah",
     "name": "Umum",
     "slug": "umum",
-    "created_at": "2026-09-07T07:35:55.139708+00:00",
-    "cover_media_id": null
+    "created_at": "2026-09-07T07:40:31.874843+00:00",
+    "cover_media_id": "boven-digoel-6"
   },
   {
     "id": "kemenhaj__umum",
@@ -208,11 +208,11 @@
     "cover_media_id": null
   },
   {
-    "id": "darul-hidayah__umum",
-    "organization_id": "darul-hidayah",
+    "id": "pemda__umum",
+    "organization_id": "pemda",
     "name": "Umum",
     "slug": "umum",
-    "created_at": "2026-09-07T07:40:31.874843+00:00",
-    "cover_media_id": "boven-digoel-6"
+    "created_at": "2026-09-07T07:35:55.139708+00:00",
+    "cover_media_id": null
   }
 ]
