@@ -32,6 +32,14 @@
     "cover_media_id": "boven-digoel-71"
   },
   {
+    "id": "darul-hidayah__hari-santri-2026",
+    "organization_id": "darul-hidayah",
+    "name": "Hari Santri 2026",
+    "slug": "hari-santri-2026",
+    "created_at": "2026-10-21T12:12:09.413541+00:00",
+    "cover_media_id": null
+  },
+  {
     "id": "kemenhaj__iphi",
     "organization_id": "kemenhaj",
     "name": "IPHI",
@@ -184,6 +192,38 @@
     "cover_media_id": null
   },
   {
+    "id": "mwc-nu__umum",
+    "organization_id": "mwc-nu",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:43:08.780734+00:00",
+    "cover_media_id": null
+  },
+  {
+    "id": "tpq-mdh__umum",
+    "organization_id": "tpq-mdh",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:41:34.111773+00:00",
+    "cover_media_id": null
+  },
+  {
+    "id": "baznas__umum",
+    "organization_id": "baznas",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:39:15.19091+00:00",
+    "cover_media_id": null
+  },
+  {
+    "id": "kemenhaj__umum",
+    "organization_id": "kemenhaj",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:32:56.079976+00:00",
+    "cover_media_id": null
+  },
+  {
     "id": "darul-hidayah__umum",
     "organization_id": "darul-hidayah",
     "name": "Umum",
@@ -197,38 +237,6 @@
     "name": "Umum",
     "slug": "umum",
     "created_at": "2026-09-07T07:35:55.139708+00:00",
-    "cover_media_id": null
-  },
-  {
-    "id": "baznas__umum",
-    "organization_id": "baznas",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:39:15.19091+00:00",
-    "cover_media_id": null
-  },
-  {
-    "id": "tpq-mdh__umum",
-    "organization_id": "tpq-mdh",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:41:34.111773+00:00",
-    "cover_media_id": null
-  },
-  {
-    "id": "mwc-nu__umum",
-    "organization_id": "mwc-nu",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:43:08.780734+00:00",
-    "cover_media_id": null
-  },
-  {
-    "id": "kemenhaj__umum",
-    "organization_id": "kemenhaj",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:32:56.079976+00:00",
     "cover_media_id": null
   }
 ]
