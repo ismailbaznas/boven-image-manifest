@@ -8,6 +8,14 @@
     "cover_media_id": null
   },
   {
+    "id": "kemenhaj__cact-2026",
+    "organization_id": "kemenhaj",
+    "name": "CACT 2026",
+    "slug": "cact-2026",
+    "created_at": "2026-11-04T05:48:37.665371+00:00",
+    "cover_media_id": "boven-digoel-665"
+  },
+  {
     "id": "baznas__fidyah-tahap-3-2026",
     "organization_id": "baznas",
     "name": "Fidyah Tahap 3 2026",
@@ -192,35 +200,11 @@
     "cover_media_id": null
   },
   {
-    "id": "mwc-nu__umum",
-    "organization_id": "mwc-nu",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:43:08.780734+00:00",
-    "cover_media_id": null
-  },
-  {
-    "id": "tpq-mdh__umum",
-    "organization_id": "tpq-mdh",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:41:34.111773+00:00",
-    "cover_media_id": null
-  },
-  {
     "id": "baznas__umum",
     "organization_id": "baznas",
     "name": "Umum",
     "slug": "umum",
     "created_at": "2026-09-07T07:39:15.19091+00:00",
-    "cover_media_id": null
-  },
-  {
-    "id": "kemenhaj__umum",
-    "organization_id": "kemenhaj",
-    "name": "Umum",
-    "slug": "umum",
-    "created_at": "2026-09-07T07:32:56.079976+00:00",
     "cover_media_id": null
   },
   {
@@ -237,6 +221,30 @@
     "name": "Umum",
     "slug": "umum",
     "created_at": "2026-09-07T07:35:55.139708+00:00",
+    "cover_media_id": null
+  },
+  {
+    "id": "kemenhaj__umum",
+    "organization_id": "kemenhaj",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:32:56.079976+00:00",
+    "cover_media_id": null
+  },
+  {
+    "id": "mwc-nu__umum",
+    "organization_id": "mwc-nu",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:43:08.780734+00:00",
+    "cover_media_id": null
+  },
+  {
+    "id": "tpq-mdh__umum",
+    "organization_id": "tpq-mdh",
+    "name": "Umum",
+    "slug": "umum",
+    "created_at": "2026-09-07T07:41:34.111773+00:00",
     "cover_media_id": null
   }
 ]
